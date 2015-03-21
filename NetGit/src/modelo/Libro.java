@@ -8,6 +8,7 @@ package modelo;
 /**assasas
  *
  * @author ronald
+ * para la nueva version
  */
 public class Libro {
     private String ISBN;
